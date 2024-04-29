@@ -1,7 +1,7 @@
 
 # uuid7 for Nim lang
 
-[API DOC](https://lost22git.github.io/nim_uuidv7/uuid7.html)
+[API DOC](https://lost22git.github.io/nim_uuid7/uuid7.html)
 
 ## Resources
 
