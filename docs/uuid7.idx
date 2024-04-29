@@ -1,0 +1,5 @@
+nimTitle	uuid7	uuid7.html	module src/uuid7		0
+nim	Uuid	uuid7.html#Uuid	type Uuid		11
+nim	`$`	uuid7.html#$,Uuid	proc `$`(uuid: Uuid): string		16
+nim	fromFields	uuid7.html#fromFields,uint32,uint16,uint16,array[,uint8]	proc fromFields(d1: uint32; d2: uint16; d3: uint16; d4: array[8, uint8]): Uuid		36
+nim	initUuid7	uuid7.html#initUuid7,Time	proc initUuid7(ts: Time = getTime()): Uuid		95
