@@ -13,5 +13,5 @@ benchmark cfg:
   proc stdOid() {.measure.} =
     discard $genOid()
 
-  proc uuid4() {.measure.} =
+  proc nimUUID4() {.measure.} =
     discard $uuid4()
